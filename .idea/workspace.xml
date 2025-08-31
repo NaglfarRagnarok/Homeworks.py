@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16a1b880-d2d0-438f-8fcf-82c50da69b4e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonProject Hillel.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Helloworld.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework 2.1. Printing a Number in a Column.py" afterDir="false" />
+    <list default="true" id="16a1b880-d2d0-438f-8fcf-82c50da69b4e" name="Changes" comment="Homework 2.1. Printing a Number in a Column.py">
+      <change afterPath="$PROJECT_DIR$/Homework 2.2. It is necessary to ‘reverse’ a 5-digit number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "NaglfarRagnarok"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/NaglfarRagnarok/Homework-2.1.-Printing-a-Number-in-a-Column.py.git",
+    "accountId": "1b6a6f13-fccd-4903-9c06-a34a29fdacd3"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
 }]]></component>
@@ -42,6 +48,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.Helloworld.executor": "Run",
     "Python.Homework 2.1. Printing a Number in a Column.executor": "Run",
+    "Python.Homework 2.2. It is necessary to ‘reverse’ a 5-digit number.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -69,14 +76,45 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1756653479348</updated>
-      <workItem from="1756653480390" duration="2264000" />
+      <workItem from="1756653480390" duration="4451000" />
     </task>
+    <task id="LOCAL-00001" summary="Helloworld">
+      <option name="closed" value="true" />
+      <created>1756655814395</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1756655814395</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Homework 2.1. Printing a Number in a Column.py">
+      <option name="closed" value="true" />
+      <created>1756655872728</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1756655872728</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Homework 2.1. Printing a Number in a Column.py">
+      <option name="closed" value="true" />
+      <created>1756656018556</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1756656018556</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Helloworld" />
+    <MESSAGE value="Homework 2.1. Printing a Number in a Column.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 2.1. Printing a Number in a Column.py" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonProject_Hillel$Homework_2_2__It_is_necessary_to_reverse_a_5_digit_number.coverage" NAME="Homework 2.2. It is necessary to ‘reverse’ a 5-digit number Coverage Results" MODIFIED="1756658112120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject_Hillel$Helloworld.coverage" NAME="Helloworld Coverage Results" MODIFIED="1756654253715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject_Hillel$Homework_2_1__Printing_a_Number_in_a_Column.coverage" NAME="Homework 2.1. Printing a Number in a Column Coverage Results" MODIFIED="1756655239323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
