@@ -13,4 +13,3 @@ reversed_number = d5 * 10000 + d4 * 1000 + d3 * 100 + d2 * 10 + d1
 
 # Виводимо результат
 print("Перевернуте число:", reversed_number)
-
