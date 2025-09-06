@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16a1b880-d2d0-438f-8fcf-82c50da69b4e" name="Changes" comment="Homework 3.2. Move Last Element in a List.py">
-      <change afterPath="$PROJECT_DIR$/Homework 3.3. Split one list into two lists.py" afterDir="false" />
+    <list default="true" id="16a1b880-d2d0-438f-8fcf-82c50da69b4e" name="Changes" comment="Homework 3.3. Split one list into two lists.py">
+      <change afterPath="$PROJECT_DIR$/Homework 4.1. Move all zeros to the end of the list.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,28 +44,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.Helloworld.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Homework 2.1. Printing a Number in a Column.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Homework 2.2. It is necessary to ‘reverse’ a 5-digit number.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Homework 2.2. It is necessary to ‘reverse’ a 5-digit numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Homework 3.1. The Simplest Calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Homework 3.2. Move Last Element in a List.executor&quot;: &quot;Run&quot;,
-    &quot;Python.internet.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Helloworld.executor": "Run",
+    "Python.Homework 2.1. Printing a Number in a Column.executor": "Run",
+    "Python.Homework 2.2. It is necessary to ‘reverse’ a 5-digit number.executor": "Run",
+    "Python.Homework 2.2. It is necessary to ‘reverse’ a 5-digit numbers.executor": "Run",
+    "Python.Homework 3.1. The Simplest Calculator.executor": "Run",
+    "Python.Homework 3.2. Move Last Element in a List.executor": "Run",
+    "Python.Homework 3.3. Split one list into two lists.executor": "Run",
+    "Python.internet.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Homework 2.2. It is necessary to ‘reverse’ a 5-digit numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject Hillel" />
@@ -220,7 +221,23 @@
       <option name="project" value="LOCAL" />
       <updated>1757120481531</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Homework 3.3. Split one list into two lists.py">
+      <option name="closed" value="true" />
+      <created>1757120953895</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1757120953895</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Homework 3.3. Split one list into two lists.py">
+      <option name="closed" value="true" />
+      <created>1757120972356</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1757120972356</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -242,7 +259,8 @@
     <MESSAGE value="Homework 2.1. Printing a Number in a Column.py" />
     <MESSAGE value="Homework 3.1. The Simplest Calculator.py" />
     <MESSAGE value="Homework 3.2. Move Last Element in a List.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework 3.2. Move Last Element in a List.py" />
+    <MESSAGE value="Homework 3.3. Split one list into two lists.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 3.3. Split one list into two lists.py" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProject_Hillel$Homework_2_2__It_is_necessary_to_reverse_a_5_digit_number.coverage" NAME="Homework 2.2. It is necessary to ‘reverse’ a 5-digit number Coverage Results" MODIFIED="1756658112120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -251,6 +269,7 @@
     <SUITE FILE_PATH="coverage/PythonProject_Hillel$Homework_2_1__Printing_a_Number_in_a_Column.coverage" NAME="Homework 2.1. Printing a Number in a Column Coverage Results" MODIFIED="1756655239323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject_Hillel$Homework_2_2__It_is_necessary_to_reverse_a_5_digit_numbers.coverage" NAME="Homework 2.2. It is necessary to ‘reverse’ a 5-digit numbers Coverage Results" MODIFIED="1756664299711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject_Hillel$Homework_3_2__Move_Last_Element_in_a_List.coverage" NAME="Homework 3.2. Move Last Element in a List Coverage Results" MODIFIED="1757120363743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject_Hillel$Homework_3_3__Split_one_list_into_two_lists.coverage" NAME="Homework 3.3. Split one list into two lists Coverage Results" MODIFIED="1757120825822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject_Hillel$internet.coverage" NAME="internet Coverage Results" MODIFIED="1756664346821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
