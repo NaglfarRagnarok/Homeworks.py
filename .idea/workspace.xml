@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16a1b880-d2d0-438f-8fcf-82c50da69b4e" name="Changes" comment="Homework 3.2. Move Last Element in a List.py">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework 3.3. Split one list into two lists.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -204,7 +204,23 @@
       <option name="project" value="LOCAL" />
       <updated>1757120308925</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Homework 3.2. Move Last Element in a List.py">
+      <option name="closed" value="true" />
+      <created>1757120450643</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1757120450643</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Homework 3.2. Move Last Element in a List.py">
+      <option name="closed" value="true" />
+      <created>1757120481531</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1757120481531</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -234,7 +250,7 @@
     <SUITE FILE_PATH="coverage/PythonProject_Hillel$Helloworld.coverage" NAME="Helloworld Coverage Results" MODIFIED="1756654253715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject_Hillel$Homework_2_1__Printing_a_Number_in_a_Column.coverage" NAME="Homework 2.1. Printing a Number in a Column Coverage Results" MODIFIED="1756655239323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject_Hillel$Homework_2_2__It_is_necessary_to_reverse_a_5_digit_numbers.coverage" NAME="Homework 2.2. It is necessary to ‘reverse’ a 5-digit numbers Coverage Results" MODIFIED="1756664299711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonProject_Hillel$Homework_3_2__Move_Last_Element_in_a_List.coverage" NAME="Homework 3.2. Move Last Element in a List Coverage Results" MODIFIED="1757118026137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject_Hillel$Homework_3_2__Move_Last_Element_in_a_List.coverage" NAME="Homework 3.2. Move Last Element in a List Coverage Results" MODIFIED="1757120363743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject_Hillel$internet.coverage" NAME="internet Coverage Results" MODIFIED="1756664346821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
