@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16a1b880-d2d0-438f-8fcf-82c50da69b4e" name="Changes" comment="Homework 3.1. The Simplest Calculator.py">
+    <list default="true" id="16a1b880-d2d0-438f-8fcf-82c50da69b4e" name="Changes" comment="Homework 3.2. Move Last Element in a List.py">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +21,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -51,6 +52,7 @@
     &quot;Python.Homework 2.2. It is necessary to ‘reverse’ a 5-digit number.executor&quot;: &quot;Run&quot;,
     &quot;Python.Homework 2.2. It is necessary to ‘reverse’ a 5-digit numbers.executor&quot;: &quot;Run&quot;,
     &quot;Python.Homework 3.1. The Simplest Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Homework 3.2. Move Last Element in a List.executor&quot;: &quot;Run&quot;,
     &quot;Python.internet.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
@@ -112,6 +114,7 @@
       <workItem from="1756653480390" duration="8487000" />
       <workItem from="1757114715650" duration="1556000" />
       <workItem from="1757116293581" duration="678000" />
+      <workItem from="1757117036801" duration="2453000" />
     </task>
     <task id="LOCAL-00001" summary="Helloworld">
       <option name="closed" value="true" />
@@ -161,17 +164,69 @@
       <option name="project" value="LOCAL" />
       <updated>1757116359238</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Homework 3.1. The Simplest Calculator.py">
+      <option name="closed" value="true" />
+      <created>1757117162976</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1757117162976</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Homework 3.1. The Simplest Calculator.py">
+      <option name="closed" value="true" />
+      <created>1757118271964</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1757118271964</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Homework 3.1. The Simplest Calculator.py">
+      <option name="closed" value="true" />
+      <created>1757118938467</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1757118938467</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Homework 3.1. The Simplest Calculator.py">
+      <option name="closed" value="true" />
+      <created>1757120146929</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1757120146929</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Homework 3.2. Move Last Element in a List.py">
+      <option name="closed" value="true" />
+      <created>1757120308925</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1757120308925</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Helloworld" />
     <MESSAGE value="Homework 2.1. Printing a Number in a Column.py" />
     <MESSAGE value="Homework 3.1. The Simplest Calculator.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework 3.1. The Simplest Calculator.py" />
+    <MESSAGE value="Homework 3.2. Move Last Element in a List.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 3.2. Move Last Element in a List.py" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProject_Hillel$Homework_2_2__It_is_necessary_to_reverse_a_5_digit_number.coverage" NAME="Homework 2.2. It is necessary to ‘reverse’ a 5-digit number Coverage Results" MODIFIED="1756658112120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -179,6 +234,7 @@
     <SUITE FILE_PATH="coverage/PythonProject_Hillel$Helloworld.coverage" NAME="Helloworld Coverage Results" MODIFIED="1756654253715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject_Hillel$Homework_2_1__Printing_a_Number_in_a_Column.coverage" NAME="Homework 2.1. Printing a Number in a Column Coverage Results" MODIFIED="1756655239323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject_Hillel$Homework_2_2__It_is_necessary_to_reverse_a_5_digit_numbers.coverage" NAME="Homework 2.2. It is necessary to ‘reverse’ a 5-digit numbers Coverage Results" MODIFIED="1756664299711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject_Hillel$Homework_3_2__Move_Last_Element_in_a_List.coverage" NAME="Homework 3.2. Move Last Element in a List Coverage Results" MODIFIED="1757118026137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject_Hillel$internet.coverage" NAME="internet Coverage Results" MODIFIED="1756664346821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
