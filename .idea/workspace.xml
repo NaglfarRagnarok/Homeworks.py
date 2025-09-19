@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16a1b880-d2d0-438f-8fcf-82c50da69b4e" name="Changes" comment="Homework 6.2. Number-to-Date Converter.py">
-      <change afterPath="$PROJECT_DIR$/Homework 6.3. Product of Digits.py" afterDir="false" />
+    <list default="true" id="16a1b880-d2d0-438f-8fcf-82c50da69b4e" name="Changes" comment="Homework 6.3. Product of Digits.py">
+      <change afterPath="$PROJECT_DIR$/Homework 7.1. Greeting.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,6 +67,8 @@
     "Python.Homework 5.3. Hashtag.executor": "Run",
     "Python.Homework 6.1. Letter Range.executor": "Run",
     "Python.Homework 6.2. Number-to-Date Converter.executor": "Run",
+    "Python.Homework 6.3. Product of Digits.executor": "Run",
+    "Python.Homework 7.1. Greeting.executor": "Run",
     "Python.internet.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -162,7 +164,7 @@
       <workItem from="1757456398359" duration="3875000" />
       <workItem from="1757550318711" duration="6308000" />
       <workItem from="1758132340705" duration="155000" />
-      <workItem from="1758160373891" duration="6466000" />
+      <workItem from="1758160373891" duration="11814000" />
     </task>
     <task id="LOCAL-00001" summary="Helloworld">
       <option name="closed" value="true" />
@@ -364,7 +366,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758222294431</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Homework 6.3. Product of Digits.py">
+      <option name="closed" value="true" />
+      <created>1758227254302</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1758227254302</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -395,12 +405,15 @@
     <MESSAGE value="Homework 5.3. Hashtag.py" />
     <MESSAGE value="Homework 6.1. Letter Range.py" />
     <MESSAGE value="Homework 6.2. Number-to-Date Converter.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework 6.2. Number-to-Date Converter.py" />
+    <MESSAGE value="Homework 6.3. Product of Digits.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 6.3. Product of Digits.py" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProject_Hillel$Homework_6_2__Number_to_Date_Converter.coverage" NAME="Homework 6.2. Number-to-Date Converter Coverage Results" MODIFIED="1758222239284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject_Hillel$Homework_7_1__Greeting.coverage" NAME="Homework 7.1. Greeting Coverage Results" MODIFIED="1758249377509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject_Hillel$Homework_2_1__Printing_a_Number_in_a_Column.coverage" NAME="Homework 2.1. Printing a Number in a Column Coverage Results" MODIFIED="1757195389939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject_Hillel$Homework_5_3__Hashtag.coverage" NAME="Homework 5.3. Hashtag Coverage Results" MODIFIED="1758162225092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject_Hillel$Homework_6_3__Product_of_Digits.coverage" NAME="Homework 6.3. Product of Digits Coverage Results" MODIFIED="1758227199309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject_Hillel$Homework_3_3__Split_one_list_into_two_lists.coverage" NAME="Homework 3.3. Split one list into two lists Coverage Results" MODIFIED="1757120825822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject_Hillel$internet.coverage" NAME="internet Coverage Results" MODIFIED="1756664346821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject_Hillel$5_1.coverage" NAME="5.1 Coverage Results" MODIFIED="1757561286421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
