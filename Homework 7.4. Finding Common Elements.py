@@ -1,31 +1,15 @@
-
-def second_index(text: str, substring: str) -> int | None:
+def common_elements():
     """
-    Повертає індекс другого входження підрядка `substring` у рядку `text`.
-
-    :param text: Рядок, у якому виконується пошук.
-    :param substring: Підрядок, який потрібно знайти.
-    :return: Індекс другого входження або None, якщо немає.
+    Генерує множини чисел, кратних 3 і кратних 5,
+    та повертає їхній перетин.
+    :return: set[int] — множина спільних елементів
     """
-    first = text.find(substring)
-    if first == -1:
-        return None
-
-    second = text.find(substring, first + 1)
-    if second == -1:
-        return None
-
-    return second
+    multiples_of_3 = {x for x in range(100) if x % 3 == 0}
+    multiples_of_5 = {x for x in range(100) if x % 5 == 0}
+    return multiples_of_3 & multiples_of_5
 
 
-def main() -> None:
-    """Проста перевірка функції second_index."""
-    assert second_index("sims", "s") == 3, "Test1"
-    assert second_index("find the river", "e") == 12, "Test2"
-    assert second_index("hi", "h") is None, "Test3"
-    assert second_index("Hello, hello", "lo") == 10, "Test4"
-    print("Усі тести пройдено успішно ✅")
+# --- Тести ---
+assert common_elements() == {0, 15, 30, 45, 60, 75, 90}, "Test failed"
 
-
-if __name__ == "__main__":
-    main()
+print("ОК ✅")
